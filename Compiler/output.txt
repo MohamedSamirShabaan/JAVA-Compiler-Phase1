@@ -1,0 +1,83 @@
+ERROR in symbol  ~
+ERROR in symbol  #
+ERROR in symbol  ?
+id
+ERROR in symbol  #
+ERROR in symbol  !
+ERROR in symbol  @
+id
+assign
+ERROR in symbol  ?
+num
+ERROR in symbol  ?
+relop
+;
+ERROR in symbol  !
+id
+id
+ERROR in symbol  !
+ERROR in symbol  !
+ERROR in symbol  !
+ERROR in symbol  !
+ERROR in symbol  !
+int
+id
+(
+)
+{
+int
+id
+assign
+num
+,
+id
+assign
+num
+,
+id
+assign
+num
+,
+id
+assign
+num
+;
+while
+(
+id
+relop
+id
+)
+{
+if
+(
+id
+ERROR in symbol  %
+num
+relop
+num
+)
+{
+id
+addop
+addop
+;
+}
+else
+{
+id
+addop
+assign
+num
+;
+}
+id
+assign
+id
+addop
+num
+;
+}
+id
+;
+}
